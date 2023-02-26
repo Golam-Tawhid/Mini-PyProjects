@@ -5,7 +5,7 @@ import smtplib
 e_send='golamthauhid@gmail.com'
 e_pass='kbnwyozqemxgbsfr'
 
-e_receive='yarejo6149@mirtox.com'
+e_receive=input("Enter the email address: ")
 sub='Python project check'
 body="""
 I made an python project that can send emails.
